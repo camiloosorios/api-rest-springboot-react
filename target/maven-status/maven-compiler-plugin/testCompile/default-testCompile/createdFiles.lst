@@ -1,0 +1,7 @@
+com\bosorio\rest\api\controllers\ProductControllerTest$getProductById.class
+com\bosorio\rest\api\controllers\ProductControllerTest.class
+com\bosorio\rest\api\controllers\ProductControllerTest$deleteProduct.class
+com\bosorio\rest\api\ApplicationTests.class
+com\bosorio\rest\api\controllers\ProductControllerTest$updateProduct.class
+com\bosorio\rest\api\controllers\ProductControllerTest$getListProducts.class
+com\bosorio\rest\api\controllers\ProductControllerTest$createProductTest.class

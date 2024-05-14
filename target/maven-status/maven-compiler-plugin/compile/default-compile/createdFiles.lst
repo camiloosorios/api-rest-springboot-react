@@ -1,0 +1,12 @@
+com\bosorio\rest\api\dto\ProductDTO.class
+com\bosorio\rest\api\entities\Product$ProductBuilder.class
+com\bosorio\rest\api\configs\WebConfig.class
+com\bosorio\rest\api\interceptors\ProductHasBodyInterceptor.class
+com\bosorio\rest\api\entities\Product.class
+com\bosorio\rest\api\services\ProductServiceImpl.class
+com\bosorio\rest\api\Application.class
+com\bosorio\rest\api\services\ProductService.class
+com\bosorio\rest\api\interceptors\ProductIdIsNumberInterceptor.class
+com\bosorio\rest\api\respositories\ProductRepository.class
+com\bosorio\rest\api\controllers\ProductController.class
+com\bosorio\rest\api\dto\ProductDTO$ProductDTOBuilder.class

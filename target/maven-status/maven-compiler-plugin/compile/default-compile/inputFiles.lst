@@ -1,0 +1,10 @@
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\entities\Product.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\Application.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\controllers\ProductController.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\interceptors\ProductIdIsNumberInterceptor.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\configs\WebConfig.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\services\ProductServiceImpl.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\interceptors\ProductHasBodyInterceptor.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\respositories\ProductRepository.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\services\ProductService.java
+C:\Users\Camilo PC\Desktop\curso-react\rest.api\src\main\java\com\bosorio\rest\api\dto\ProductDTO.java
